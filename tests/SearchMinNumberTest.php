@@ -24,7 +24,7 @@ final class SearchMinNumberTest extends TestCase
     /**
      * @return void
      */
-    public function testSameSame(): void
+    public function testSameResult(): void
     {
         $array = DataGeneration::generateRandomArray();
         $number = DataGeneration::generateRandomNumber();

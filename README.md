@@ -1,5 +1,3 @@
-# Containerization of Lravel nginx mysql application in docker using docker compose and Dockerfile.
-
 # How to use it?
 #### Run docker container
 ###### 
